@@ -63,7 +63,7 @@ body {
   color: #404bbf;
 }
 
-.link-address:hover {
+.link-address:focus {
   color: #404bbf;
 }
 
